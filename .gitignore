@@ -1,0 +1,77 @@
+# Environment variables
+.env
+.env.local
+
+# Streamlit secrets (NEVER commit these!)
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+.test_venv
+
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+logs/
+
+# Test cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Distribution
+wheels/ 
+
+stream-test/
+output/*
+profile_retrieved_output.json
+profile_chunks.json
+processed_profiles.json
+test_llm_response.json
+test_llm_output.json
