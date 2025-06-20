@@ -2,7 +2,7 @@
 
 ## Authentication Configuration
 
-The Test AI recruitment platform now uses secure credential management instead of hardcoded passwords. This guide explains how to set up authentication for different deployment scenarios.
+The Recruiter Copilot AI recruitment platform now uses secure credential management instead of hardcoded passwords. This guide explains how to set up authentication for different deployment scenarios.
 
 ## 🔐 Security Improvements
 

@@ -1,6 +1,6 @@
 # 🚀 Deployment Guide - Streamlit Community Cloud
 
-This guide will help you deploy your Test AI Recruitment app to Streamlit Community Cloud with authentication.
+This guide will help you deploy your Recruiter Copilot AI Recruitment app to Streamlit Community Cloud with authentication.
 
 ## 📋 Prerequisites
 
@@ -131,7 +131,7 @@ users = {
 
 ### Sample Email Template
 ```
-Subject: New AI Recruitment Tool - Test AI
+Subject: New AI Recruitment Tool - Recruiter Copilot AI
 
 Hi Team,
 
